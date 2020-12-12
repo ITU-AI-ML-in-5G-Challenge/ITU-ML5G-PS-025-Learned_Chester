@@ -1,6 +1,6 @@
 # ITU-ML5G-PS-025-Learned Chester
 ## This repository contains the soulution to ITU Artificial Intelligence/Machine Learning in 5G challenge.
-### The solution include a detailed report and the source code.
+The solution include a detailed report and the source code.
 ## Problem statement: ML5G-PHY[channel estimation]
 ## Team Name: Learned Chester
 ## Organization: Indian Institute of Science(IISc) and EURECOM
